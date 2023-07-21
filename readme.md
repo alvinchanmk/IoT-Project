@@ -55,7 +55,7 @@ The IoT application coded in android studios
   - Run time model updating(10)
     - Allowed users to dynamically train a new model at run time :white_check_mark:
   - Support multiple concurrent users (10)
-    - Azure Machine Learning is able to support multiple concurrent users hitting it's service's end point :white_check_mark:
+    - Machine Learning is able to support multiple concurrent users hitting it's service's end point :white_check_mark:
 
 # Video Demo on Actual Android Device
 
